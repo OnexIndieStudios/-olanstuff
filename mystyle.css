@@ -1,0 +1,17 @@
+ul{list-style-type: none;}
+
+#text{font-family: 'Fira Sans', sans-serif;}
+#text_head{font-family: 'Fira Sans', sans-serif; background-color: black;}
+
+
+.header {
+  padding: 0.2%;
+  text-align: center;
+  background: #000000;
+  color: white;
+  background-color: black;
+  font-size: 30px;
+  background-image: url("back_bep.webp");
+}
+a:link {text-decoration: none;}
+a:hover{color: orange;}
